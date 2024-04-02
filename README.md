@@ -146,6 +146,8 @@ def surfacearea(request):
 
 ## SERVER SIDE PROCESSING:
 
+![alt text](<WEB slide processing.png>)
+
 ## HOMEPAGE:
 
 ![alt text](<WEB SSP HOMEPAGE.png>)
